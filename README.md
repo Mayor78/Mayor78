@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mayor78
 - 👀 I’m interested in ...progress
 - 🌱 I’m currently learning ...full stack
-- 💞️ I’m looking to collaborate on ...that can trin together
+- 💞️ I’m looking to collaborate on ...that can train together
 - 📫 How to reach me ...Abrahammayowa78@gmail.com
 
 <!---
