@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @Mayor78
-- 👀 I’m interested in ...progress
-- 🌱 I’m currently learning ...full stack
-- 💞️ I’m looking to collaborate on ...that can train together
-- 📫 How to reach me ...Abrahammayowa78@gmail.com
 
-<!---
-Mayor78/Mayor78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+ <li>
+ -👋 Hello I'm  mayor
+</li> 
+   <li>
+ - frontend developer
+</li> 
+  <li>
+    - Building solution 
+  </li>
+    <li>
+   - i love meeting new people 
+  </li>
+      <li>
+-i code everyday to be best at what im doing 
+  </li>
+        <li>
+-open to collaboration with likes mind 
+  </li>
+          <li>
+-exploring the web 
+  </li>
+            <li>
+- 📫 How to reach me ...Abrahammayowa78@gmail.com
+  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
